@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gulam159
 - 👀 I’m interested in Learning
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 Full Stack Developer
 - 💞️ I’m looking to collaborate on any kind of codes
 - 📫 How to reach me ...DM me
 
